@@ -7,4 +7,4 @@ version of the haarcascade files here are for 11/27/2021
 
 Download the latest version from the reference below:
 
-reference for haarcascade files: https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+reference for haarcascade files: https://github.com/opencv/opencv/blob/master/data/haarcascades/
